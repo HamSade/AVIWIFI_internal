@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AVIWIFI</string>
+    <string name="localize_me_id">Localize Me!</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
